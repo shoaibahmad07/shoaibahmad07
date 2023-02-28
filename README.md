@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning javascript and wordpress
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me (sa652459@gmail.com)
+- 📫 How to reach me (kaif.makent@gmail.com)
 
 <!---
 shoaibahmad07/shoaibahmad07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
